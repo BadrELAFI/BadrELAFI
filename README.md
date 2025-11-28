@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects mostly ml stuff**
 
-- 💬 Ask me about **Data science, low level stuff, or**
+- 💬 Ask me about **Data science, low level stuff, CyberSecurity**
 
 - 📫 How to reach me **badr.ed.elafi@gmail.com**
 
