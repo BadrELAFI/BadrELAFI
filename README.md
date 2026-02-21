@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badr-eddine EL AFI</h1>
 <h3 align="center">A Big Data and IoT student @ENSAM Casablanca</h3>
 
-- 🌱 I’m currently learning **DevOps and AI**
+- 🌱 I’m currently learning **Cloud and AI**
 
 - 👯 I’m looking to collaborate on **fun projects mostly ml stuff**
 
