@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **badr.ed.elafi@gmail.com**
 
-- 📄 Know about my experiences [Internship @SOMAPORT developping an android app for container management](Internship @SOMAPORT developping an android app for container management)
+- 📄 Know about my experiences [Internship @SOMAPORT developping an android app for container management]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
