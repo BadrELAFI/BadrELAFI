@@ -49,9 +49,10 @@ I am a Big Data & IoT Master's student at ENSAM Casablanca. I build scalable bat
 
 ### Featured Projects
 
-*   **[ENSAMFlow](https://github.com/YOUR_GITHUB_USERNAME/ENSAMFlow)** — Rule-based financial fraud detection pipeline built on the PaySim dataset (~6.3M transactions) using a Docker-composed Hadoop stack (HDFS, Hive, MapReduce, HBase) and Spring Boot backend deployed on AWS EC2/S3.
-*   **[CBI Compass](https://github.com/YOUR_GITHUB_USERNAME/CBI-Compass)** — Hybrid semantic search tool for internal staffing queries at CBI that combines BM25 and multilingual E5 embeddings using FastAPI, React, and PostgreSQL/pgvector.
-*   **[Shift](https://github.com/YOUR_GITHUB_USERNAME/Shift)** — MLOps command-line tool designed for detecting data drift to ensure model reliability and pipeline health.
+*   **[ENSAMFlow](https://github.com/BadrELAFI/ENSAMFlow)** — Rule-based financial fraud detection pipeline built on the PaySim dataset (~6.3M transactions) using a Docker-composed Hadoop stack (HDFS, Hive, MapReduce, HBase) and Spring Boot backend deployed on AWS EC2/S3.
+*   **[ENSAMFlow](https://github.com/BadrELAFI/ENSAMFlow)** — Rule-based financial fraud detection pipeline built on the PaySim dataset (~6.3M transactions) using a Docker-composed Hadoop stack (HDFS, Hive, MapReduce, HBase) and Spring Boot backend deployed on AWS EC2/S3.
+*   **[CBI Compass](https://github.com/BadrELAFI/CBI-Compass)** — Hybrid semantic search tool for internal staffing queries at CBI that combines BM25 and multilingual E5 embeddings using FastAPI, React, and PostgreSQL/pgvector.
+*   **[Shift](https://github.com/BadrELAFI/Shift)** — MLOps command-line tool designed for detecting data drift to ensure model reliability and pipeline health.
 
 ---
 
